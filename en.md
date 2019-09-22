@@ -18,6 +18,7 @@
 
 
 ```uml
-
-obuject
+@startuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
 ```
